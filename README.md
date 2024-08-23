@@ -18,7 +18,7 @@ git clone
 
 2. Navega al directorio del proyecto:
 ```bash
-cd nombre-del-repositorio
+cd SScores/
 ```
 
 3. Crea y activa un entorno virtual (opcional):
@@ -35,5 +35,5 @@ pip install -r requirements.txt
 
 5. Ejecuta la aplicacion:
 ```bash
-python nombre-del-script.py
+python3 app.py
 ```
